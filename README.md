@@ -1,16 +1,17 @@
-# buisness_card
+# Business Card App
 
-A new Flutter project.
+A simple and elegant Flutter application designed to showcase your personal or professional information in the form of a digital business card. This app contains your photo, static details, and links to all your social media profiles.
+
+## Features
+- Display your personal photo.
+- Showcase your name and Contact info
+- Provide direct links to your social media accounts.
+- Static design for a sleek and professional appearance.
 
 ## Getting Started
+To run this project on your local machine:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/business_card.git
+   cd business_card
